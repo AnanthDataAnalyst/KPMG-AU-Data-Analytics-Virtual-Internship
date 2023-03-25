@@ -19,7 +19,7 @@ e. Incorrect Data
 These issues were documented and a report regarding the issues documented and the solutions to those issues has been attached in the repository in the form of a Word 
 file.
 
-The cleaned Dataset has also been attached in the form of an excel file in the repository.
+
 
 
 Task 2 : Data Insights
@@ -33,6 +33,8 @@ The given task is to prepare a power point presentation on the following topics:
 3. Interpretation
 
 The PPT for the above topics is attached in the repository and the reports for the topic "Interpretation" is also attached in the form of .pbix file as it was done with the help of Microsoft Power BI.
+
+
 
 
 Task 3 : Data Insights and Presentation
